@@ -128,8 +128,6 @@ Graduated, MA (Hons): Engineering Pt 1a & 1b, Computer Science Pt II
 
 Journeys Through Microsoft Word 5.1 (The Macintosh Guide) Addison-Wesley, June 1, 1993
 
-Authors: [Richard Dyce][12]
-
 ## Languages
 
 - German
