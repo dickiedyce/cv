@@ -144,6 +144,7 @@ Journeys Through Microsoft Word 5.1 (The Macintosh Guide) Addison-Wesley, June 1
  - PHP 5.x (& unit testing)
  - Filemaker Pro 3.x - 13.x
  - Javascript, jQuery 2.x, coffeescript
+ - Python
  - MySQL
  - Unix shell scripting (bash)
  - AppleScript
