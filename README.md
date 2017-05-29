@@ -1,12 +1,12 @@
 # Richard James Dyce, MA Cantab MIET
 
-|    Details     |                       |
-| :------------- | --------------------- |
-| Marital Status | Married, 2 children   |
-| Email Address  | dd@dyce.com           |
-| Mobile         | +44 (0) 7712 828860   |
-| Other          | Clean driving licence |
-| LinkedIn       |  [http://www.linkedin.com/in/rjdyce](http://www.linkedin.com/in/rjdyce)|
+| Details        |                                          |
+| :------------- | ---------------------------------------- |
+| Marital Status | Married, 2 children                      |
+| Email Address  | dd@dyce.com                              |
+| Mobile         | +44 (0) 7712 828860                      |
+| Other          | Clean driving licence                    |
+| LinkedIn       | [http://www.linkedin.com/in/rjdyce](http://www.linkedin.com/in/rjdyce) |
 
 ## Summary
 
@@ -30,6 +30,14 @@ I am a quick-study, and enjoy the challenge of a new language/environment.
 Dyce & Sons provides business consultancy, process management, training, and bespoke software, database, and web application design to SME businesses throughout the UK. It is the Scotland-based continuance of the previously England-based Richard Dyce Consultants Ltd., working with the same client- base, and providing the same range of services.
 
 ### Recent contracts undertaken include:
+
+#### DePuy Synthes Companies, Switzerland
+
+*February 2016 – Present (1 yr 4 months)*
+
+Senior Developer, working in a German-speaking environment on CAPA Remediations and new functionality for Large-scale MDM translation system.
+
+Developed a generic FileMaker native, low impact, drop-in audit tool to augment the functionality of the existing Synthes MDM solution. The tool is fully documented, with installation instructions, performance tests suites, and Unit test suites in FileMaker. Provided a similarly designed secure document storage to replace the Windows-managed document system. Implemented optimisations for backend processing between SAP and FileMaker using innovative virtual list techniques, functional coding, and scheduled VB scripts.
 
 #### Wates Group Ltd: Maintenance & Mentoring
 
@@ -66,9 +74,9 @@ In addition, I wrote training materials for their in-house development team in o
 
 #### Schlumberger Oilfields UK Ltd. : Business System & Maintenance
 
-*2009 - Present (6 years)*
+*2009 - Present (8 years)*
 
-This contract has run from 2010, where I was initially brought in to clean-up a basic v.5 FileMaker database of job notes. I was then asked to specify and develop a complete information management system to run their entire Aberdeen Completions operation. The system now comprises:
+This contract has run from 2009, where I was initially brought in to clean-up a basic v.5 FileMaker database of job notes. I was then asked to specify and develop a complete information management system to run their entire Aberdeen Completions operation. The system now comprises:
 
 * Quality Control Plan (QCP) and Work Instructions (WI) for three separate segments - QCPs consist of multiple WIs, with each task performed covered by a WI, Pre- and Post-job records, Client Satisfaction Reports, Well & Rig data sheets;
 * Goods Received Notices (GRNs) for electronically signing for deliveries, managing Technical Reception of parts, notifying engineers of parts arrivals, and measuring KPIs;
@@ -122,15 +130,15 @@ Provided reviews and other editorial, to deadline.
 
 ### Freelance - Various
 #### Technical Consultant
- 
+
 *February 1996 - October 2003 (7 years 9 months*)
 
 Clients included Baker Oil Tools, Camco, FileMaker Inc, EMAP Metro, Sykes Cottages, Camelot, Goode International, Judy Bennet PR, BSA, and Simon & Schuster Publishing. Retained by Mediamation Ltd., Bibliocraft etc. as General Programming Consultant. Network Consultancy. Example work;
 * Multi-user Macintosh-based sales system. 
-Automated WWW FileMaker database publishing systems for Steraloids Inc. and Instant Access Ltd. * Multi-user Windows-based Course logging system for Nivation Ltd. in FileMaker. 
+  Automated WWW FileMaker database publishing systems for Steraloids Inc. and Instant Access Ltd. * Multi-user Windows-based Course logging system for Nivation Ltd. in FileMaker. 
 * Designed and implemented bespoke client, property & customer management tool for large holiday property company, replacing 1,200 square feet of wall planners with PHP/MySQL web-based client UI.
 * Designed and implemented catalogue publishing tool for specialist chemicals reseller leading to 50% sales improvement.
-Commissioned by Microsoft/Apple to write 420 page training book for Word.
+  Commissioned by Microsoft/Apple to write 420 page training book for Word.
 * Presented document publishing demonstrations for FileMaker using FileMaker, Quark & AppleScript at their Stamford Bridge conference.
 
 ----
@@ -163,7 +171,7 @@ Sole responsibility for 200+ user publishing system for magazine publisher of 11
 
 ### MacUser Magazine
 #### Technical Editor
- 
+
 *July 1990 - August 1991 (1 year 2 months*)
 
 Responsible for writing and commissioning technical features and articles for twice monthly magazine.
@@ -191,26 +199,26 @@ Journeys Through Microsoft Word 5.1 (The Macintosh Guide), *Addison-Wesley June 
 ## Skills
 ### Programming
 
- - PHP 5.x (& unit testing)
- - Filemaker Pro 3.x - 13.x
- - Javascript, jQuery 2.x, coffeescript
- - Python
- - MySQL
- - Unix shell scripting (bash)
- - AppleScript
- - XML & XSLT
- - Markdown & Multimarkdown
- - HTML, CSS, Less, Sass, Twitter Bootstrap
- - Remote server admin
- - Win XP, Win 7, MacOS X
- - ER Modelling
- - Regular Expressions
+- PHP 5.x (& unit testing)
+- Filemaker Pro 3.x - 13.x
+- Javascript, jQuery 2.x, coffeescript
+- Python
+- MySQL
+- Unix shell scripting (bash)
+- AppleScript
+- XML & XSLT
+- Markdown & Multimarkdown
+- HTML, CSS, Less, Sass, Twitter Bootstrap
+- Remote server admin
+- Win XP, Win 7, MacOS X
+- ER Modelling
+- Regular Expressions
 
 ### General
 
- - Technical Writing
- - Public Speaking
- - Technical Training
- - Feature Writing
- - Conference Presentations
- - Technical Illustration
+- Technical Writing
+- Public Speaking
+- Technical Training
+- Feature Writing
+- Conference Presentations
+- Technical Illustration
