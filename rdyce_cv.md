@@ -1,4 +1,4 @@
-# Richard James Dyce, MA Cantab MIET
+# Richard James Dyce, MA Cantab MIET FRSA
 
 |    Details     |                                                                        |
 | :------------- | ---------------------------------------------------------------------- |
