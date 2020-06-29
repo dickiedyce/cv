@@ -1,185 +1,172 @@
 {
-    "basics": {
-      "name": "Richard James Dyce, MA Cantab MIET FRSA",
-      "label": "Programmer",
-      "picture": "",
-      "email": "jobs@dyce.com",
-      "phone": "+44 7712 828860",
+  "basics": {
+    "name": "Richard James Dyce, MA Cantab MIET FRSA",
+    "label": "Programmer",
+    "picture": "",
+    "email": "jobs@dyce.com",
+    "phone": "+44 7712 828860",
+    "website": "http://dyce.com",
+    "summary": "I enjoy working with people, helping them to understand and solve their problems. A commercial FileMaker developer since 1993. Through a first-hand practical understanding of successful business practice, and an academic grounding in computing science, I have provided essential process development, implementation, and refinement to enterprise and SME clients in a variety of business spheres, from multi-national oil field service companies to steroid research suppliers, national magazine publishers to international property groups. Tools I have written produce the monthly vehicle listings at the back of TopGear Magazine, 400+ page catalogues in InDesign, template-based documents for financial web-marketing companies, and static websites for music charities. Proficient in a wide range of development tools and cross-platform environments: from shell scripting (bash, VB & Python), through compiler- based, and off-the- shelf applications. I have developed mission critical applications on LAMP stacks (MySQL, PHP5, Javascript & jQuery), using database products (FileMaker, Omnis, Access), and rapid application development tools (AppleScript studio, VBA). I am a quick-study, and enjoy the challenge of a new language/environment.",
+    "location": {
+      "address": "2 King Street",
+      "postalCode": "IV30 1EU",
+      "city": "Elgin",
+      "countryCode": "UK",
+      "region": "Moray"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "rjdyce",
+        "url": "https://www.linkedin.com/in/rjdyce"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dyce & Sons Ltd",
+      "position": "Director",
       "website": "http://dyce.com",
-      "summary": "I enjoy working with people, helping them to understand and solve their problems. A commercial FileMaker developer since 1993. Through a first-hand practical understanding of successful business practice, and an academic grounding in computing science, I have provided essential process development, implementation, and refinement to enterprise and SME clients in a variety of business spheres, from multi-national oil field service companies to steroid research suppliers, national magazine publishers to international property groups. Tools I have written produce the monthly vehicle listings at the back of TopGear Magazine, 400+ page catalogues in InDesign, template-based documents for financial web-marketing companies, and static websites for music charities. Proficient in a wide range of development tools and cross-platform environments: from shell scripting (bash, VB & Python), through compiler- based, and off-the- shelf applications. I have developed mission critical applications on LAMP stacks (MySQL, PHP5, Javascript & jQuery), using database products (FileMaker, Omnis, Access), and rapid application development tools (AppleScript studio, VBA). I am a quick-study, and enjoy the challenge of a new language/environment.",
-      "location": {
-        "address": "2 King Street",
-        "postalCode": "IV30 1EU",
-        "city": "Elgin",
-        "countryCode": "UK",
-        "region": "Moray"
-      },
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "rjdyce",
-          "url": "https://www.linkedin.com/in/rjdyce"
-        }
+      "startDate": "2013-04-01",
+      "endDate": "",
+      "summary": "Dyce & Sons provides business consultancy, process management, training, and bespoke software, database, and web application design to SME businesses throughout the UK. It is the Scotland-based continuance of the previously England-based Richard Dyce Consultants Ltd., working with the same client- base, and providing the same range of services.",
+      "highlights": [
+        "Developed a generic FileMaker native, low impact, drop-in audit tool to augment the functionality of the existing Synthes MDM solution. The tool is fully documented, with installation instructions, performance tests suites, and Unit test suites in FileMaker.",
+        "Provided a similarly designed secure document storage to replace the Windows-managed document system. Implemented optimisations for backend processing between SAP and FileMaker using innovative virtual list techniques, functional coding, and scheduled VB scripts."
       ]
     },
-    "work": [
-      {
-        "company": "Dyce & Sons Ltd",
-        "position": "Director",
-        "website": "http://dyce.com",
-        "startDate": "2013-04-01",
-        "endDate": "",
-        "summary": "Dyce & Sons provides business consultancy, process management, training, and bespoke software, database, and web application design to SME businesses throughout the UK. It is the Scotland-based continuance of the previously England-based Richard Dyce Consultants Ltd., working with the same client- base, and providing the same range of services.",
-        "highlights": [
-          "Developed a generic FileMaker native, low impact, drop-in audit tool to augment the functionality of the existing Synthes MDM solution. The tool is fully documented, with installation instructions, performance tests suites, and Unit test suites in FileMaker.",
-          "Provided a similarly designed secure document storage to replace the Windows-managed document system. Implemented optimisations for backend processing between SAP and FileMaker using innovative virtual list techniques, functional coding, and scheduled VB scripts."
-        ]
-      },
-      {
-        "company": "DePuy Synthes Companies, Switzerland",
-        "position": "Senior Developer",
-        "website": "",
-        "startDate": "2016-02-01",
-        "endDate": "",
-        "summary": "Senior Developer, working in a German-speaking environment on CAPA Remediations and new functionality for Large-scale MDM translation system.",
-        "highlights": []
-      },
-      {
-        "company": "Wates Group Ltd, UK",
-        "position": "Senior Developer",
-        "website": "",
-        "startDate": "2015-08-01",
-        "endDate": "2016-01-31",
-        "summary": "This was a 3-month initial Maintenance & Mentoring contract that was extend to 6 months.",
-        "highlights": [
-          "Reviewed & refactored their internal systems. This was a windows based environment with a large amount of DevOps work, including automation of FTP, batch scripted file processing, multi-server cloud-based FileMaker development, and deployment to 3 new client contracts with remote PDA access",
-          "Filemaker development across their current application suite",
-          "Interpreted of change requests and developed changes within the test environment",
-          "Deployed of changes to Production environments through Change Management",
-          "Assisted in maintaining of system related documentation",
-          "Assisted in the remedying of break/fix calls coming through the service desk"
-        ]
-      },
-      {
-        "company": "Knowledge Transfer Network (KTN), UK",
-        "position": "Senior Developer",
-        "website": "",
-        "startDate": "2014-10-01",
-        "endDate": "2015-06-30",
-        "summary": "Reviewed & refactored their internal systems DB, which provides work planning and HR functions for the enterprise, and also forms the backend to one of their extranet services.",
-        "highlights": [
-          "Replacement of 100+ scripts with generic, 20 or parameterised versions.",
-          "Introduction of ExecuteSQl-type techniques to simplify the table structures.",
-          "A parameterised reporting tool, for building user-specific, recordable reports.",
-          "A HighCharts-based graphing UI for measuring staff loading KPIs.",
-          "A template-based tool for Email handling.",
-          "A template-based tool for generating KPI reports as PDFs.",
-          "Adding documentation to existing scripts and layouts; an.",
-          "Wrote training materials for their in-house development team in order to ensure that the new techniques and tools will be kept in play after my departure.",
-          "The addition of roll-out schedule tool for controlled testing and deployment of new features, fixes."
-        ]
-      },
-      {
-        "company": "Schlumberger Oilfields UK Ltd, UK",
-        "position": "Business Systems Consultant",
-        "website": "",
-        "startDate": "2009-06-01",
-        "endDate": "",
-        "summary": "This contract has run from 2009, where I was initially brought in to clean-up a basic v.5 FileMaker database of job notes. I was then asked to specify and develop a complete information management system to run their entire Aberdeen Completions operation.",
-        "highlights": [
-          "Quality Control Plan (QCP) and Work Instructions (WI) for three separate segments - QCPs consist of multiple WIs, with each task performed covered by a WI, Pre- and Post-job records, Client Satisfaction Reports, Well & Rig data sheets;",
-          "Goods Received Notices (GRNs) for electronically signing for deliveries, managing Technical Reception of parts, notifying engineers of parts arrivals, and measuring KPIs;",
-          "Equipment Transfers for tracking movement of goods within the enterprise;",
-          "Assignment Tool for managing engineer assignments between clients;",
-          "Quotes, Proposals and Tenders tool, for generating versioned PDF quotes by tying Word & Excel directly into FileMaker via VisualBasic macros;
-          "Order Purchase Tracking for managing production of parts in other SLB sites",
-          "Forecasting Tool, for producing forecasts and rolling forecasts with a TimeMachine-style interface for reviewing previous forecast states."
-        ]
+    {
+      "company": "DePuy Synthes Companies, Switzerland",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2016-02-01",
+      "endDate": "",
+      "summary": "Senior Developer, working in a German-speaking environment on CAPA Remediations and new functionality for Large-scale MDM translation system.",
+      "highlights": []
+    },
+    {
+      "company": "Wates Group Ltd, UK",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "2016-01-31",
+      "summary": "This was a 3-month initial Maintenance & Mentoring contract that was extend to 6 months.",
+      "highlights": [
+        "Reviewed & refactored their internal systems. This was a windows based environment with a large amount of DevOps work, including automation of FTP, batch scripted file processing, multi-server cloud-based FileMaker development, and deployment to 3 new client contracts with remote PDA access",
+        "Filemaker development across their current application suite",
+        "Interpreted of change requests and developed changes within the test environment",
+        "Deployed of changes to Production environments through Change Management",
+        "Assisted in maintaining of system related documentation",
+        "Assisted in the remedying of break/fix calls coming through the service desk"
+      ]
+    },
+    {
+      "company": "Knowledge Transfer Network (KTN), UK",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2014-10-01",
+      "endDate": "2015-06-30",
+      "summary": "Reviewed & refactored their internal systems DB, which provides work planning and HR functions for the enterprise, and also forms the backend to one of their extranet services.",
+      "highlights": [
+        "Replacement of 100+ scripts with generic, 20 or parameterised versions.",
+        "Introduction of ExecuteSQl-type techniques to simplify the table structures.",
+        "A parameterised reporting tool, for building user-specific, recordable reports.",
+        "A HighCharts-based graphing UI for measuring staff loading KPIs.",
+        "A template-based tool for Email handling.",
+        "A template-based tool for generating KPI reports as PDFs.",
+        "Adding documentation to existing scripts and layouts; an.",
+        "Wrote training materials for their in-house development team in order to ensure that the new techniques and tools will be kept in play after my departure.",
+        "The addition of roll-out schedule tool for controlled testing and deployment of new features, fixes."
+      ]
+    },
+    {
+      "company": "Schlumberger Oilfields UK Ltd, UK",
+      "position": "Business Systems Consultant",
+      "website": "",
+      "startDate": "2009-06-01",
+      "endDate": "",
+      "summary": "This contract has run from 2009, where I was initially brought in to clean-up a basic v.5 FileMaker database of job notes. I was then asked to specify and develop a complete information management system to run their entire Aberdeen Completions operation.",
+      "highlights": [
+        "Quality Control Plan (QCP) and Work Instructions (WI) for three separate segments - QCPs consist of multiple WIs, with each task performed covered by a WI, Pre- and Post-job records, Client Satisfaction Reports, Well & Rig data sheets;",
+        "Goods Received Notices (GRNs) for electronically signing for deliveries, managing Technical Reception of parts, notifying engineers of parts arrivals, and measuring KPIs;",
+        "Equipment Transfers for tracking movement of goods within the enterprise;",
+        "Assignment Tool for managing engineer assignments between clients;",
+        "Quotes, Proposals and Tenders tool, for generating versioned PDF quotes by tying Word & Excel directly into FileMaker via VisualBasic macros;",
+        "Order Purchase Tracking for managing production of parts in other SLB sites",
+        "Forecasting Tool, for producing forecasts and rolling forecasts with a TimeMachine-style interface for reviewing previous forecast states."
+      ]
     }
-    ],
-    "volunteer": [],
-    "education": [
-      {
-        "institution": "University of Cambridge",
-        "area": "Engineering / Computing Science",
-        "studyType": "MA Degree",
-        "startDate": "1987-10-01",
-        "endDate": "1990-06-01",
-        "courses": [
-          "Engineering Tripos I",
-          "Computer Science Tripos II"
-        ]
-      }
-    ],
-    "awards": [ ],
-    "publications": [
-      {
-        "name": "Journeys Through Microsoft Word 5.1 (The Macintosh Guide)",
-        "publisher": "Addison-Wesley",
-        "releaseDate": "1993-06-01",
-        "website": "",
-        "summary": "420-page training manual, commissioned by Apple/Microsoft for office users."
-      }
-    ],
-    "skills": [
-      {
-        "name": "Database Developer",
-        "level": "Master",
-        "keywords": [
-          "SQL",
-          "Filemaker Pro",
-          "Architecture",
-          "Mentoring"
-        ]
-      },
-      {
-        "name": "Web Developer",
-        "level": "Master",
-        "keywords": [
-          "HTML",
-          "Javascript",
-          "React",
-          "PHP"
-        ]
-      },
-      {
-        "name": "DevOps",
-        "level": "Master",
-        "keywords": [
-          "Python",
-          "bash",
-          "AppleScript",
-          "Windows",
-          "MacOS",
-          "Regular Expressions"
-        ]
-      },
-      {
-        "name": "Technical Writing",
-        "level": "Master",
-        "keywords": [
-          "Writing",
-          "Training",
-          "Presentation",
-          "MS Office",
-          "Markdown"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "English",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "German",
-        "fluency": "Competent speaker"
-      },
-      {
-        "language": "French",
-        "fluency": "Basic speaker"
-      }
-    ],
-    "interests": [],
-    "references": []
-  }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Cambridge",
+      "area": "Engineering / Computing Science",
+      "studyType": "MA Degree",
+      "startDate": "1987-10-01",
+      "endDate": "1990-06-01",
+      "courses": ["Engineering Tripos I", "Computer Science Tripos II"]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Journeys Through Microsoft Word 5.1 (The Macintosh Guide)",
+      "publisher": "Addison-Wesley",
+      "releaseDate": "1993-06-01",
+      "website": "",
+      "summary": "420-page training manual, commissioned by Apple/Microsoft for office users."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Database Developer",
+      "level": "Master",
+      "keywords": ["SQL", "Filemaker Pro", "Architecture", "Mentoring"]
+    },
+    {
+      "name": "Web Developer",
+      "level": "Master",
+      "keywords": ["HTML", "Javascript", "React", "PHP"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "bash",
+        "AppleScript",
+        "Windows",
+        "MacOS",
+        "Regular Expressions"
+      ]
+    },
+    {
+      "name": "Technical Writing",
+      "level": "Master",
+      "keywords": [
+        "Writing",
+        "Training",
+        "Presentation",
+        "MS Office",
+        "Markdown"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Competent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
