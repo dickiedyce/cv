@@ -31,6 +31,7 @@
       "endDate": "",
       "summary": "Dyce & Sons provides business consultancy, process management, training, and bespoke software, database, and web application design to SME businesses throughout the UK. It is the Scotland-based continuance of the previously England-based Richard Dyce Consultants Ltd., working with the same client- base, and providing the same range of services.",
       "highlights": [
+        "Developed a full stack React/NodeJS Web application, for inter-departmental form review and approval. Designed the architecture, implemented the backend using Postgres, and the frontend using React. Main technologies used: React, Jest, Cypress, PG-Migrations, Yup, Formik, JSExcel, and MaterialUI. The application has 100% test coverage.",
         "Developed a generic FileMaker native, low impact, drop-in audit tool to augment the functionality of the existing Synthes MDM solution. The tool is fully documented, with installation instructions, performance tests suites, and Unit test suites in FileMaker.",
         "Provided a similarly designed secure document storage to replace the Windows-managed document system. Implemented optimisations for backend processing between SAP and FileMaker using innovative virtual list techniques, functional coding, and scheduled VB scripts."
       ]
